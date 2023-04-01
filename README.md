@@ -1,1 +1,3 @@
-# Game-Edukasi-BTQ
+# Game-Edukasi-BTQ (Game Developer) Studi Independen with Gamelab.ID
+
+As a Game Planner and Game Director for my final internship project, I managed the development of an educational game aimed at teaching children about the Arabic alphabet, specifically the Huruf Hijaiyah. One of the biggest challenges we faced was working remotely due to the pandemic, but I overcame this challenge by organizing regular Zoom meetings with the development team to ensure that everyone was on the same page and deadlines were met. Through my leadership and direction, the game was successfully completed on time and received positive feedback from our supervisor.
